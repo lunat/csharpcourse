@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CardinalToOrdinal</name>
+    </assembly>
+    <members>
+        <member name="M:CardinalToOrdinal.Helpers.TestClass.CardinalToOrdinal(System.Int32)">
+            <summary>
+            Pass a 32-bit integer and it will be converted into its ordinal equivalent.
+            </summary>
+            <param name="number">Any cardinal number to convert to ordinal</param>
+            <returns>Ordinal Number</returns>
+        </member>
+    </members>
+</doc>

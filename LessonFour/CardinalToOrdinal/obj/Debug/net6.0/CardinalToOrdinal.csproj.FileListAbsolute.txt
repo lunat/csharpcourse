@@ -1,0 +1,17 @@
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\bin\Debug\net6.0\CardinalToOrdinal.exe
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\bin\Debug\net6.0\CardinalToOrdinal.deps.json
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\bin\Debug\net6.0\CardinalToOrdinal.runtimeconfig.json
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\bin\Debug\net6.0\CardinalToOrdinal.dll
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\bin\Debug\net6.0\CardinalToOrdinal.pdb
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\obj\Debug\net6.0\CardinalToOrdinal.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\obj\Debug\net6.0\CardinalToOrdinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\obj\Debug\net6.0\CardinalToOrdinal.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\obj\Debug\net6.0\CardinalToOrdinal.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\obj\Debug\net6.0\CardinalToOrdinal.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\obj\Debug\net6.0\CardinalToOrdinal.dll
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\obj\Debug\net6.0\refint\CardinalToOrdinal.dll
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\obj\Debug\net6.0\CardinalToOrdinal.pdb
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\obj\Debug\net6.0\CardinalToOrdinal.genruntimeconfig.cache
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\obj\Debug\net6.0\ref\CardinalToOrdinal.dll
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\bin\Debug\net6.0\CardinalToOrdinal.xml
+C:\Users\Luca\projects\LessonFour\CardinalToOrdinal\obj\Debug\net6.0\CardinalToOrdinal.xml

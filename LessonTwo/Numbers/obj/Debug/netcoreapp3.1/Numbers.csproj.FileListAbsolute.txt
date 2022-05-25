@@ -1,0 +1,14 @@
+C:\Users\Luca\projects\LessonTwo\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+C:\Users\Luca\projects\LessonTwo\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+C:\Users\Luca\projects\LessonTwo\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+C:\Users\Luca\projects\LessonTwo\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+C:\Users\Luca\projects\LessonTwo\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\Luca\projects\LessonTwo\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\Luca\projects\LessonTwo\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonTwo\Numbers\obj\Debug\netcoreapp3.1\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonTwo\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonTwo\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonTwo\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonTwo\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\Luca\projects\LessonTwo\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\Luca\projects\LessonTwo\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache

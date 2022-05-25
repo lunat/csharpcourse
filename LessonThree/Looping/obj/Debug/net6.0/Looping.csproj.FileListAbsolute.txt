@@ -1,0 +1,15 @@
+C:\Users\Luca\projects\LessonThree\Looping\bin\Debug\net6.0\Looping.exe
+C:\Users\Luca\projects\LessonThree\Looping\bin\Debug\net6.0\Looping.deps.json
+C:\Users\Luca\projects\LessonThree\Looping\bin\Debug\net6.0\Looping.runtimeconfig.json
+C:\Users\Luca\projects\LessonThree\Looping\bin\Debug\net6.0\Looping.dll
+C:\Users\Luca\projects\LessonThree\Looping\bin\Debug\net6.0\Looping.pdb
+C:\Users\Luca\projects\LessonThree\Looping\obj\Debug\net6.0\Looping.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonThree\Looping\obj\Debug\net6.0\Looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonThree\Looping\obj\Debug\net6.0\Looping.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonThree\Looping\obj\Debug\net6.0\Looping.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonThree\Looping\obj\Debug\net6.0\Looping.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonThree\Looping\obj\Debug\net6.0\Looping.dll
+C:\Users\Luca\projects\LessonThree\Looping\obj\Debug\net6.0\refint\Looping.dll
+C:\Users\Luca\projects\LessonThree\Looping\obj\Debug\net6.0\Looping.pdb
+C:\Users\Luca\projects\LessonThree\Looping\obj\Debug\net6.0\Looping.genruntimeconfig.cache
+C:\Users\Luca\projects\LessonThree\Looping\obj\Debug\net6.0\ref\Looping.dll

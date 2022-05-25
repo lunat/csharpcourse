@@ -1,0 +1,15 @@
+C:\Users\Luca\projects\LessonThree\ParsingFromString\bin\Debug\net6.0\ParsingFromString.exe
+C:\Users\Luca\projects\LessonThree\ParsingFromString\bin\Debug\net6.0\ParsingFromString.deps.json
+C:\Users\Luca\projects\LessonThree\ParsingFromString\bin\Debug\net6.0\ParsingFromString.runtimeconfig.json
+C:\Users\Luca\projects\LessonThree\ParsingFromString\bin\Debug\net6.0\ParsingFromString.dll
+C:\Users\Luca\projects\LessonThree\ParsingFromString\bin\Debug\net6.0\ParsingFromString.pdb
+C:\Users\Luca\projects\LessonThree\ParsingFromString\obj\Debug\net6.0\ParsingFromString.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonThree\ParsingFromString\obj\Debug\net6.0\ParsingFromString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonThree\ParsingFromString\obj\Debug\net6.0\ParsingFromString.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonThree\ParsingFromString\obj\Debug\net6.0\ParsingFromString.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonThree\ParsingFromString\obj\Debug\net6.0\ParsingFromString.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonThree\ParsingFromString\obj\Debug\net6.0\ParsingFromString.dll
+C:\Users\Luca\projects\LessonThree\ParsingFromString\obj\Debug\net6.0\refint\ParsingFromString.dll
+C:\Users\Luca\projects\LessonThree\ParsingFromString\obj\Debug\net6.0\ParsingFromString.pdb
+C:\Users\Luca\projects\LessonThree\ParsingFromString\obj\Debug\net6.0\ParsingFromString.genruntimeconfig.cache
+C:\Users\Luca\projects\LessonThree\ParsingFromString\obj\Debug\net6.0\ref\ParsingFromString.dll

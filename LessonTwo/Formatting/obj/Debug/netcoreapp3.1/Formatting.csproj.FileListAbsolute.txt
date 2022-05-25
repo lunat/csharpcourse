@@ -1,0 +1,14 @@
+C:\Users\Luca\projects\LessonTwo\Formatting\bin\Debug\netcoreapp3.1\Formatting.exe
+C:\Users\Luca\projects\LessonTwo\Formatting\bin\Debug\netcoreapp3.1\Formatting.deps.json
+C:\Users\Luca\projects\LessonTwo\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.json
+C:\Users\Luca\projects\LessonTwo\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.dev.json
+C:\Users\Luca\projects\LessonTwo\Formatting\bin\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\Luca\projects\LessonTwo\Formatting\bin\Debug\netcoreapp3.1\Formatting.pdb
+C:\Users\Luca\projects\LessonTwo\Formatting\obj\Debug\netcoreapp3.1\Formatting.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonTwo\Formatting\obj\Debug\netcoreapp3.1\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonTwo\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonTwo\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonTwo\Formatting\obj\Debug\netcoreapp3.1\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonTwo\Formatting\obj\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\Luca\projects\LessonTwo\Formatting\obj\Debug\netcoreapp3.1\Formatting.pdb
+C:\Users\Luca\projects\LessonTwo\Formatting\obj\Debug\netcoreapp3.1\Formatting.genruntimeconfig.cache

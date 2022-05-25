@@ -1,0 +1,14 @@
+C:\Users\Luca\projects\LessonTwo\Default\bin\Debug\netcoreapp3.1\Default.exe
+C:\Users\Luca\projects\LessonTwo\Default\bin\Debug\netcoreapp3.1\Default.deps.json
+C:\Users\Luca\projects\LessonTwo\Default\bin\Debug\netcoreapp3.1\Default.runtimeconfig.json
+C:\Users\Luca\projects\LessonTwo\Default\bin\Debug\netcoreapp3.1\Default.runtimeconfig.dev.json
+C:\Users\Luca\projects\LessonTwo\Default\bin\Debug\netcoreapp3.1\Default.dll
+C:\Users\Luca\projects\LessonTwo\Default\bin\Debug\netcoreapp3.1\Default.pdb
+C:\Users\Luca\projects\LessonTwo\Default\obj\Debug\netcoreapp3.1\Default.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonTwo\Default\obj\Debug\netcoreapp3.1\Default.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonTwo\Default\obj\Debug\netcoreapp3.1\Default.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonTwo\Default\obj\Debug\netcoreapp3.1\Default.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonTwo\Default\obj\Debug\netcoreapp3.1\Default.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonTwo\Default\obj\Debug\netcoreapp3.1\Default.dll
+C:\Users\Luca\projects\LessonTwo\Default\obj\Debug\netcoreapp3.1\Default.pdb
+C:\Users\Luca\projects\LessonTwo\Default\obj\Debug\netcoreapp3.1\Default.genruntimeconfig.cache

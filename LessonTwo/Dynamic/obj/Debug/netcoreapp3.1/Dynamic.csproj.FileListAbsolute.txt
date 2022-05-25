@@ -1,0 +1,14 @@
+C:\Users\Luca\projects\LessonTwo\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.exe
+C:\Users\Luca\projects\LessonTwo\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.deps.json
+C:\Users\Luca\projects\LessonTwo\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.json
+C:\Users\Luca\projects\LessonTwo\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.dev.json
+C:\Users\Luca\projects\LessonTwo\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.dll
+C:\Users\Luca\projects\LessonTwo\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.pdb
+C:\Users\Luca\projects\LessonTwo\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonTwo\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonTwo\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonTwo\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonTwo\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonTwo\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.dll
+C:\Users\Luca\projects\LessonTwo\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.pdb
+C:\Users\Luca\projects\LessonTwo\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLineArg": {
+      "commandName": "Project",
+      "commandLineArgs": "first second \"third fourth\""
+    }
+  }
+}

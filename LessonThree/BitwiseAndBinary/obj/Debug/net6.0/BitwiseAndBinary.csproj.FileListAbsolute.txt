@@ -1,0 +1,15 @@
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\bin\Debug\net6.0\BitwiseAndBinary.exe
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\bin\Debug\net6.0\BitwiseAndBinary.deps.json
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\bin\Debug\net6.0\BitwiseAndBinary.runtimeconfig.json
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\bin\Debug\net6.0\BitwiseAndBinary.dll
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\bin\Debug\net6.0\BitwiseAndBinary.pdb
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\obj\Debug\net6.0\BitwiseAndBinary.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\obj\Debug\net6.0\BitwiseAndBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\obj\Debug\net6.0\BitwiseAndBinary.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\obj\Debug\net6.0\BitwiseAndBinary.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\obj\Debug\net6.0\BitwiseAndBinary.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\obj\Debug\net6.0\BitwiseAndBinary.dll
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\obj\Debug\net6.0\refint\BitwiseAndBinary.dll
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\obj\Debug\net6.0\BitwiseAndBinary.pdb
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\obj\Debug\net6.0\BitwiseAndBinary.genruntimeconfig.cache
+C:\Users\Luca\projects\LessonThree\BitwiseAndBinary\obj\Debug\net6.0\ref\BitwiseAndBinary.dll

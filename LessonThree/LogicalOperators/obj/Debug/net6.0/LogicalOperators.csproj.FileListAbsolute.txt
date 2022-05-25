@@ -1,0 +1,15 @@
+C:\Users\Luca\projects\LessonThree\LogicalOperators\bin\Debug\net6.0\LogicalOperators.exe
+C:\Users\Luca\projects\LessonThree\LogicalOperators\bin\Debug\net6.0\LogicalOperators.deps.json
+C:\Users\Luca\projects\LessonThree\LogicalOperators\bin\Debug\net6.0\LogicalOperators.runtimeconfig.json
+C:\Users\Luca\projects\LessonThree\LogicalOperators\bin\Debug\net6.0\LogicalOperators.dll
+C:\Users\Luca\projects\LessonThree\LogicalOperators\bin\Debug\net6.0\LogicalOperators.pdb
+C:\Users\Luca\projects\LessonThree\LogicalOperators\obj\Debug\net6.0\LogicalOperators.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonThree\LogicalOperators\obj\Debug\net6.0\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonThree\LogicalOperators\obj\Debug\net6.0\LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonThree\LogicalOperators\obj\Debug\net6.0\LogicalOperators.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonThree\LogicalOperators\obj\Debug\net6.0\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonThree\LogicalOperators\obj\Debug\net6.0\LogicalOperators.dll
+C:\Users\Luca\projects\LessonThree\LogicalOperators\obj\Debug\net6.0\refint\LogicalOperators.dll
+C:\Users\Luca\projects\LessonThree\LogicalOperators\obj\Debug\net6.0\LogicalOperators.pdb
+C:\Users\Luca\projects\LessonThree\LogicalOperators\obj\Debug\net6.0\LogicalOperators.genruntimeconfig.cache
+C:\Users\Luca\projects\LessonThree\LogicalOperators\obj\Debug\net6.0\ref\LogicalOperators.dll

@@ -1,0 +1,15 @@
+C:\Users\Luca\projects\LessonThree\LessonThree\bin\Debug\net6.0\LessonThree.exe
+C:\Users\Luca\projects\LessonThree\LessonThree\bin\Debug\net6.0\LessonThree.deps.json
+C:\Users\Luca\projects\LessonThree\LessonThree\bin\Debug\net6.0\LessonThree.runtimeconfig.json
+C:\Users\Luca\projects\LessonThree\LessonThree\bin\Debug\net6.0\LessonThree.dll
+C:\Users\Luca\projects\LessonThree\LessonThree\bin\Debug\net6.0\LessonThree.pdb
+C:\Users\Luca\projects\LessonThree\LessonThree\obj\Debug\net6.0\LessonThree.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonThree\LessonThree\obj\Debug\net6.0\LessonThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonThree\LessonThree\obj\Debug\net6.0\LessonThree.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonThree\LessonThree\obj\Debug\net6.0\LessonThree.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonThree\LessonThree\obj\Debug\net6.0\LessonThree.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonThree\LessonThree\obj\Debug\net6.0\LessonThree.dll
+C:\Users\Luca\projects\LessonThree\LessonThree\obj\Debug\net6.0\refint\LessonThree.dll
+C:\Users\Luca\projects\LessonThree\LessonThree\obj\Debug\net6.0\LessonThree.pdb
+C:\Users\Luca\projects\LessonThree\LessonThree\obj\Debug\net6.0\LessonThree.genruntimeconfig.cache
+C:\Users\Luca\projects\LessonThree\LessonThree\obj\Debug\net6.0\ref\LessonThree.dll

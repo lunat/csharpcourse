@@ -1,0 +1,15 @@
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\bin\Debug\net6.0\ConversionAndCasting.exe
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\bin\Debug\net6.0\ConversionAndCasting.deps.json
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\bin\Debug\net6.0\ConversionAndCasting.runtimeconfig.json
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\bin\Debug\net6.0\ConversionAndCasting.dll
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\bin\Debug\net6.0\ConversionAndCasting.pdb
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\obj\Debug\net6.0\ConversionAndCasting.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\obj\Debug\net6.0\ConversionAndCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\obj\Debug\net6.0\ConversionAndCasting.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\obj\Debug\net6.0\ConversionAndCasting.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\obj\Debug\net6.0\ConversionAndCasting.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\obj\Debug\net6.0\ConversionAndCasting.dll
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\obj\Debug\net6.0\refint\ConversionAndCasting.dll
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\obj\Debug\net6.0\ConversionAndCasting.pdb
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\obj\Debug\net6.0\ConversionAndCasting.genruntimeconfig.cache
+C:\Users\Luca\projects\LessonThree\ConversionAndCasting\obj\Debug\net6.0\ref\ConversionAndCasting.dll

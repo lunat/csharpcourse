@@ -1,0 +1,15 @@
+C:\Users\Luca\projects\LessonThree\Overflow\obj\Debug\net6.0\Overflow.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonThree\Overflow\obj\Debug\net6.0\Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonThree\Overflow\obj\Debug\net6.0\Overflow.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonThree\Overflow\obj\Debug\net6.0\Overflow.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonThree\Overflow\obj\Debug\net6.0\Overflow.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonThree\Overflow\bin\Debug\net6.0\Overflow.exe
+C:\Users\Luca\projects\LessonThree\Overflow\bin\Debug\net6.0\Overflow.deps.json
+C:\Users\Luca\projects\LessonThree\Overflow\bin\Debug\net6.0\Overflow.runtimeconfig.json
+C:\Users\Luca\projects\LessonThree\Overflow\bin\Debug\net6.0\Overflow.dll
+C:\Users\Luca\projects\LessonThree\Overflow\bin\Debug\net6.0\Overflow.pdb
+C:\Users\Luca\projects\LessonThree\Overflow\obj\Debug\net6.0\Overflow.dll
+C:\Users\Luca\projects\LessonThree\Overflow\obj\Debug\net6.0\refint\Overflow.dll
+C:\Users\Luca\projects\LessonThree\Overflow\obj\Debug\net6.0\Overflow.pdb
+C:\Users\Luca\projects\LessonThree\Overflow\obj\Debug\net6.0\Overflow.genruntimeconfig.cache
+C:\Users\Luca\projects\LessonThree\Overflow\obj\Debug\net6.0\ref\Overflow.dll

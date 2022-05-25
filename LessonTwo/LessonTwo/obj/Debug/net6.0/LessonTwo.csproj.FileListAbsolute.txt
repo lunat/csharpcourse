@@ -1,0 +1,15 @@
+C:\Users\Luca\projects\LessonTwo\LessonTwo\bin\Debug\net6.0\LessonTwo.exe
+C:\Users\Luca\projects\LessonTwo\LessonTwo\bin\Debug\net6.0\LessonTwo.deps.json
+C:\Users\Luca\projects\LessonTwo\LessonTwo\bin\Debug\net6.0\LessonTwo.runtimeconfig.json
+C:\Users\Luca\projects\LessonTwo\LessonTwo\bin\Debug\net6.0\LessonTwo.dll
+C:\Users\Luca\projects\LessonTwo\LessonTwo\bin\Debug\net6.0\LessonTwo.pdb
+C:\Users\Luca\projects\LessonTwo\LessonTwo\obj\Debug\net6.0\LessonTwo.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonTwo\LessonTwo\obj\Debug\net6.0\LessonTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonTwo\LessonTwo\obj\Debug\net6.0\LessonTwo.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonTwo\LessonTwo\obj\Debug\net6.0\LessonTwo.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonTwo\LessonTwo\obj\Debug\net6.0\LessonTwo.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonTwo\LessonTwo\obj\Debug\net6.0\LessonTwo.dll
+C:\Users\Luca\projects\LessonTwo\LessonTwo\obj\Debug\net6.0\refint\LessonTwo.dll
+C:\Users\Luca\projects\LessonTwo\LessonTwo\obj\Debug\net6.0\LessonTwo.pdb
+C:\Users\Luca\projects\LessonTwo\LessonTwo\obj\Debug\net6.0\LessonTwo.genruntimeconfig.cache
+C:\Users\Luca\projects\LessonTwo\LessonTwo\obj\Debug\net6.0\ref\LessonTwo.dll

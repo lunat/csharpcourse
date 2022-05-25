@@ -1,0 +1,15 @@
+C:\Users\Luca\projects\LessonThree\PatternMatching\bin\Debug\net6.0\PatternMatching.exe
+C:\Users\Luca\projects\LessonThree\PatternMatching\bin\Debug\net6.0\PatternMatching.deps.json
+C:\Users\Luca\projects\LessonThree\PatternMatching\bin\Debug\net6.0\PatternMatching.runtimeconfig.json
+C:\Users\Luca\projects\LessonThree\PatternMatching\bin\Debug\net6.0\PatternMatching.dll
+C:\Users\Luca\projects\LessonThree\PatternMatching\bin\Debug\net6.0\PatternMatching.pdb
+C:\Users\Luca\projects\LessonThree\PatternMatching\obj\Debug\net6.0\PatternMatching.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonThree\PatternMatching\obj\Debug\net6.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonThree\PatternMatching\obj\Debug\net6.0\PatternMatching.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonThree\PatternMatching\obj\Debug\net6.0\PatternMatching.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonThree\PatternMatching\obj\Debug\net6.0\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonThree\PatternMatching\obj\Debug\net6.0\PatternMatching.dll
+C:\Users\Luca\projects\LessonThree\PatternMatching\obj\Debug\net6.0\refint\PatternMatching.dll
+C:\Users\Luca\projects\LessonThree\PatternMatching\obj\Debug\net6.0\PatternMatching.pdb
+C:\Users\Luca\projects\LessonThree\PatternMatching\obj\Debug\net6.0\PatternMatching.genruntimeconfig.cache
+C:\Users\Luca\projects\LessonThree\PatternMatching\obj\Debug\net6.0\ref\PatternMatching.dll

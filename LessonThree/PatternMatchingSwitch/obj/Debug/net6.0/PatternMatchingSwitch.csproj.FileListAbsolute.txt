@@ -1,0 +1,15 @@
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\bin\Debug\net6.0\PatternMatchingSwitch.exe
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\bin\Debug\net6.0\PatternMatchingSwitch.deps.json
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\bin\Debug\net6.0\PatternMatchingSwitch.runtimeconfig.json
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\bin\Debug\net6.0\PatternMatchingSwitch.dll
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\bin\Debug\net6.0\PatternMatchingSwitch.pdb
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.dll
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\obj\Debug\net6.0\refint\PatternMatchingSwitch.dll
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.pdb
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.genruntimeconfig.cache
+C:\Users\Luca\projects\LessonThree\PatternMatchingSwitch\obj\Debug\net6.0\ref\PatternMatchingSwitch.dll

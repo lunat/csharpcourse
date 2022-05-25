@@ -1,0 +1,14 @@
+C:\Users\Luca\projects\LessonTwo\Reflection\bin\Debug\netcoreapp3.1\Reflection.exe
+C:\Users\Luca\projects\LessonTwo\Reflection\bin\Debug\netcoreapp3.1\Reflection.deps.json
+C:\Users\Luca\projects\LessonTwo\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+C:\Users\Luca\projects\LessonTwo\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+C:\Users\Luca\projects\LessonTwo\Reflection\bin\Debug\netcoreapp3.1\Reflection.dll
+C:\Users\Luca\projects\LessonTwo\Reflection\bin\Debug\netcoreapp3.1\Reflection.pdb
+C:\Users\Luca\projects\LessonTwo\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\LessonTwo\Reflection\obj\Debug\netcoreapp3.1\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\LessonTwo\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\LessonTwo\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+C:\Users\Luca\projects\LessonTwo\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\LessonTwo\Reflection\obj\Debug\netcoreapp3.1\Reflection.dll
+C:\Users\Luca\projects\LessonTwo\Reflection\obj\Debug\netcoreapp3.1\Reflection.pdb
+C:\Users\Luca\projects\LessonTwo\Reflection\obj\Debug\netcoreapp3.1\Reflection.genruntimeconfig.cache
