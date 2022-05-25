@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luca\\projects\\LessonFour\\Recursion\\Recursion.csproj",
+      "projectUniqueName": "C:\\Users\\Luca\\projects\\csharpcourse\\LessonFour\\Recursion\\Recursion.csproj",
       "projectName": "Recursion",
-      "projectPath": "C:\\Users\\Luca\\projects\\LessonFour\\Recursion\\Recursion.csproj",
+      "projectPath": "C:\\Users\\Luca\\projects\\csharpcourse\\LessonFour\\Recursion\\Recursion.csproj",
       "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luca\\projects\\LessonFour\\Recursion\\obj\\",
+      "outputPath": "C:\\Users\\Luca\\projects\\csharpcourse\\LessonFour\\Recursion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luca\\projects\\LessonFour\\LessonFour\\LessonFour.csproj",
+      "projectUniqueName": "C:\\Users\\Luca\\projects\\csharpcourse\\LessonFour\\LessonFour\\LessonFour.csproj",
       "projectName": "LessonFour",
-      "projectPath": "C:\\Users\\Luca\\projects\\LessonFour\\LessonFour\\LessonFour.csproj",
+      "projectPath": "C:\\Users\\Luca\\projects\\csharpcourse\\LessonFour\\LessonFour\\LessonFour.csproj",
       "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luca\\projects\\LessonFour\\LessonFour\\obj\\",
+      "outputPath": "C:\\Users\\Luca\\projects\\csharpcourse\\LessonFour\\LessonFour\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

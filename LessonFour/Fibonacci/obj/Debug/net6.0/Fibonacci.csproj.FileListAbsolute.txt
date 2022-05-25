@@ -1,0 +1,15 @@
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\bin\Debug\net6.0\Fibonacci.exe
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\obj\Debug\net6.0\refint\Fibonacci.dll
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache
+C:\Users\Luca\projects\csharpcourse\LessonFour\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll

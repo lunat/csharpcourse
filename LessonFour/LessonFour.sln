@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonFour", "LessonFour\LessonFour.csproj", "{80C37708-0A93-4FF6-82D9-5D3741AFC0CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LessonFour", "LessonFour\LessonFour.csproj", "{80C37708-0A93-4FF6-82D9-5D3741AFC0CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardinalToOrdinal", "CardinalToOrdinal\CardinalToOrdinal.csproj", "{94C9B88C-B831-4E73-81E4-2F751CC59FCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardinalToOrdinal", "CardinalToOrdinal\CardinalToOrdinal.csproj", "{94C9B88C-B831-4E73-81E4-2F751CC59FCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{DF07191F-3A0B-452D-8687-FEC8C4A26EC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{DF07191F-3A0B-452D-8687-FEC8C4A26EC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{10A7371C-4F7C-451B-8DF7-6AC458285317}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{DF07191F-3A0B-452D-8687-FEC8C4A26EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF07191F-3A0B-452D-8687-FEC8C4A26EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF07191F-3A0B-452D-8687-FEC8C4A26EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A7371C-4F7C-451B-8DF7-6AC458285317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A7371C-4F7C-451B-8DF7-6AC458285317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A7371C-4F7C-451B-8DF7-6AC458285317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A7371C-4F7C-451B-8DF7-6AC458285317}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
