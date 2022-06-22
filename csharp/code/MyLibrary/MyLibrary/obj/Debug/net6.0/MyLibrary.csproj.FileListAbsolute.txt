@@ -1,0 +1,12 @@
+C:\Users\Luca\repos\MyLibrary\MyLibrary\bin\Debug\net6.0\MyLibrary.deps.json
+C:\Users\Luca\repos\MyLibrary\MyLibrary\bin\Debug\net6.0\MyLibrary.dll
+C:\Users\Luca\repos\MyLibrary\MyLibrary\bin\Debug\net6.0\MyLibrary.pdb
+C:\Users\Luca\repos\MyLibrary\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\MyLibrary\MyLibrary\obj\Debug\net6.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\MyLibrary\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\MyLibrary\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfo.cs
+C:\Users\Luca\repos\MyLibrary\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\MyLibrary\MyLibrary\obj\Debug\net6.0\MyLibrary.dll
+C:\Users\Luca\repos\MyLibrary\MyLibrary\obj\Debug\net6.0\refint\MyLibrary.dll
+C:\Users\Luca\repos\MyLibrary\MyLibrary\obj\Debug\net6.0\MyLibrary.pdb
+C:\Users\Luca\repos\MyLibrary\MyLibrary\obj\Debug\net6.0\ref\MyLibrary.dll

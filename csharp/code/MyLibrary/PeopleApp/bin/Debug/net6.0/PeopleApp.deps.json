@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PeopleApp/1.0.0": {
+        "dependencies": {
+          "ModernCSharpLibrary": "1.0.0",
+          "MyLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PeopleApp.dll": {}
+        }
+      },
+      "ModernCSharpLibrary/1.0.0": {
+        "runtime": {
+          "ModernCSharpLibrary.dll": {}
+        }
+      },
+      "MyLibrary/1.0.0": {
+        "runtime": {
+          "MyLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModernCSharpLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

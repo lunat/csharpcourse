@@ -1,0 +1,15 @@
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\bin\Debug\net6.0\InterfaceExample.exe
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\bin\Debug\net6.0\InterfaceExample.deps.json
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\bin\Debug\net6.0\InterfaceExample.runtimeconfig.json
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\bin\Debug\net6.0\InterfaceExample.dll
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\bin\Debug\net6.0\InterfaceExample.pdb
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.AssemblyInfo.cs
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.dll
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\obj\Debug\net6.0\refint\InterfaceExample.dll
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.pdb
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.genruntimeconfig.cache
+C:\Users\Luca\repos\InterfaceExample\InterfaceExample\obj\Debug\net6.0\ref\InterfaceExample.dll

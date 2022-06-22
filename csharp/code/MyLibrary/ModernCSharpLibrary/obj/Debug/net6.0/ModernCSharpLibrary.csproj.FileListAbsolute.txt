@@ -1,0 +1,12 @@
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\bin\Debug\net6.0\ModernCSharpLibrary.deps.json
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\bin\Debug\net6.0\ModernCSharpLibrary.dll
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\bin\Debug\net6.0\ModernCSharpLibrary.pdb
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\obj\Debug\net6.0\ModernCSharpLibrary.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\obj\Debug\net6.0\ModernCSharpLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\obj\Debug\net6.0\ModernCSharpLibrary.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\obj\Debug\net6.0\ModernCSharpLibrary.AssemblyInfo.cs
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\obj\Debug\net6.0\ModernCSharpLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\obj\Debug\net6.0\ModernCSharpLibrary.dll
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\obj\Debug\net6.0\refint\ModernCSharpLibrary.dll
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\obj\Debug\net6.0\ModernCSharpLibrary.pdb
+C:\Users\Luca\repos\MyLibrary\ModernCSharpLibrary\obj\Debug\net6.0\ref\ModernCSharpLibrary.dll
