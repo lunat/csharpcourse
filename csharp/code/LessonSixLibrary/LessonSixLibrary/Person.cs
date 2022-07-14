@@ -12,6 +12,11 @@ public class Person : object, IComparable<Person>
         WriteLine($"{Name} was born on a {DateOfBirth:dddd}");
     }
 
+    public virtual void Sing()
+    {
+        WriteLine($"{Name} is singing!");
+    }
+
     //static method
     public static Person Procreate(Person p1, Person p2)
     {
@@ -68,5 +73,15 @@ public class Person : object, IComparable<Person>
     {
         if (Name is null) return ("").CompareTo(other?.Name);
         return Name.CompareTo(other?.Name);
+    }
+
+    public void TimeTravel(DateTime when)
+    {
+        if (when <= DateOfBirth)
+        {
+            throw new PersonException("You cannot travel so far!");
+        }
+
+        WriteLine($"Welcome to {when:yyyy}");
     }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luca\\repos\\InterfaceExample\\InterfaceExample\\InterfaceExample.csproj",
+      "projectUniqueName": "C:\\Users\\Luca\\repos\\csharpcourse\\csharp\\code\\InterfaceExample\\InterfaceExample\\InterfaceExample.csproj",
       "projectName": "InterfaceExample",
-      "projectPath": "C:\\Users\\Luca\\repos\\InterfaceExample\\InterfaceExample\\InterfaceExample.csproj",
+      "projectPath": "C:\\Users\\Luca\\repos\\csharpcourse\\csharp\\code\\InterfaceExample\\InterfaceExample\\InterfaceExample.csproj",
       "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luca\\repos\\InterfaceExample\\InterfaceExample\\obj\\",
+      "outputPath": "C:\\Users\\Luca\\repos\\csharpcourse\\csharp\\code\\InterfaceExample\\InterfaceExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

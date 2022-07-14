@@ -1,0 +1,15 @@
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\bin\Debug\net6.0\NullableReference.exe
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\bin\Debug\net6.0\NullableReference.deps.json
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\bin\Debug\net6.0\NullableReference.runtimeconfig.json
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\bin\Debug\net6.0\NullableReference.dll
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\bin\Debug\net6.0\NullableReference.pdb
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\obj\Debug\net6.0\NullableReference.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\obj\Debug\net6.0\NullableReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\obj\Debug\net6.0\NullableReference.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\obj\Debug\net6.0\NullableReference.AssemblyInfo.cs
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\obj\Debug\net6.0\NullableReference.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\obj\Debug\net6.0\NullableReference.dll
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\obj\Debug\net6.0\refint\NullableReference.dll
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\obj\Debug\net6.0\NullableReference.pdb
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\obj\Debug\net6.0\NullableReference.genruntimeconfig.cache
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\NullableReference\obj\Debug\net6.0\ref\NullableReference.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+DoMTeKXAUH+JsQc1SN0gGxwo8mwQ1rWAhu+yNJL9GKmsRTLTZdPBPi+vx4ny8LkiaNomZDtQMiz5pe3XRfBGg==",
+  "dgSpecHash": "8iJrqEwZtGM9HMzLvMFEoGERznwRbqrCEw56K+AsZADk9Cs4iG56Q+IlC7F/WXubcTD82CpmBGW3xB4x2Q1T9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luca\\repos\\InterfaceExample\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\Luca\\repos\\csharpcourse\\csharp\\code\\InterfaceExample\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luca\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\Luca\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",

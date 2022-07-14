@@ -1,0 +1,15 @@
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\obj\Debug\net6.0\DefaultInterfaceImplementation.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\obj\Debug\net6.0\DefaultInterfaceImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\obj\Debug\net6.0\DefaultInterfaceImplementation.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\obj\Debug\net6.0\DefaultInterfaceImplementation.AssemblyInfo.cs
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\obj\Debug\net6.0\DefaultInterfaceImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\bin\Debug\net6.0\DefaultInterfaceImplementation.exe
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\bin\Debug\net6.0\DefaultInterfaceImplementation.deps.json
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\bin\Debug\net6.0\DefaultInterfaceImplementation.runtimeconfig.json
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\bin\Debug\net6.0\DefaultInterfaceImplementation.dll
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\bin\Debug\net6.0\DefaultInterfaceImplementation.pdb
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\obj\Debug\net6.0\DefaultInterfaceImplementation.dll
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\obj\Debug\net6.0\refint\DefaultInterfaceImplementation.dll
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\obj\Debug\net6.0\DefaultInterfaceImplementation.pdb
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\obj\Debug\net6.0\DefaultInterfaceImplementation.genruntimeconfig.cache
+C:\Users\Luca\repos\csharpcourse\csharp\code\InterfaceExample\DefaultInterfaceImplementation\obj\Debug\net6.0\ref\DefaultInterfaceImplementation.dll

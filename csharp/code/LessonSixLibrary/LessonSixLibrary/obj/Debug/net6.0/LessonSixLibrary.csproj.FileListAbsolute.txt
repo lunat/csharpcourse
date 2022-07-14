@@ -10,3 +10,15 @@ C:\Users\Luca\repos\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\LessonSix
 C:\Users\Luca\repos\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\refint\LessonSixLibrary.dll
 C:\Users\Luca\repos\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\LessonSixLibrary.pdb
 C:\Users\Luca\repos\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\ref\LessonSixLibrary.dll
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\bin\Debug\net6.0\LessonSixLibrary.deps.json
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\bin\Debug\net6.0\LessonSixLibrary.dll
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\bin\Debug\net6.0\LessonSixLibrary.pdb
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\LessonSixLibrary.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\LessonSixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\LessonSixLibrary.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\LessonSixLibrary.AssemblyInfo.cs
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\LessonSixLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\LessonSixLibrary.dll
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\refint\LessonSixLibrary.dll
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\LessonSixLibrary.pdb
+C:\Users\Luca\repos\csharpcourse\csharp\code\LessonSixLibrary\LessonSixLibrary\obj\Debug\net6.0\ref\LessonSixLibrary.dll
