@@ -1,0 +1,15 @@
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\bin\Debug\net6.0\JuneHomeWork.exe
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\bin\Debug\net6.0\JuneHomeWork.deps.json
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\bin\Debug\net6.0\JuneHomeWork.runtimeconfig.json
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\bin\Debug\net6.0\JuneHomeWork.dll
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\bin\Debug\net6.0\JuneHomeWork.pdb
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\obj\Debug\net6.0\JuneHomeWork.csproj.AssemblyReference.cache
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\obj\Debug\net6.0\JuneHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\obj\Debug\net6.0\JuneHomeWork.AssemblyInfoInputs.cache
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\obj\Debug\net6.0\JuneHomeWork.AssemblyInfo.cs
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\obj\Debug\net6.0\JuneHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\obj\Debug\net6.0\JuneHomeWork.dll
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\obj\Debug\net6.0\refint\JuneHomeWork.dll
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\obj\Debug\net6.0\JuneHomeWork.pdb
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\obj\Debug\net6.0\JuneHomeWork.genruntimeconfig.cache
+C:\Users\natalil\repos\JuneHomeWork\JuneHomeWork\obj\Debug\net6.0\ref\JuneHomeWork.dll
