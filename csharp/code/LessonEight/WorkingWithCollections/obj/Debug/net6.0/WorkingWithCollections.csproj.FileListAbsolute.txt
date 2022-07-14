@@ -1,0 +1,15 @@
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.exe
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.deps.json
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.runtimeconfig.json
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.dll
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.pdb
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfo.cs
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.dll
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\obj\Debug\net6.0\refint\WorkingWithCollections.dll
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.pdb
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.genruntimeconfig.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithCollections\obj\Debug\net6.0\ref\WorkingWithCollections.dll

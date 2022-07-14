@@ -1,0 +1,15 @@
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\bin\Debug\net6.0\WorkingWithDictionary.exe
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\bin\Debug\net6.0\WorkingWithDictionary.deps.json
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\bin\Debug\net6.0\WorkingWithDictionary.runtimeconfig.json
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\bin\Debug\net6.0\WorkingWithDictionary.dll
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\bin\Debug\net6.0\WorkingWithDictionary.pdb
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.AssemblyInfo.cs
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.dll
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\obj\Debug\net6.0\refint\WorkingWithDictionary.dll
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.pdb
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.genruntimeconfig.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithDictionary\obj\Debug\net6.0\ref\WorkingWithDictionary.dll

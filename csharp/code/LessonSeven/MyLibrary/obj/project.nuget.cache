@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUrWSwasg0KKtfUlaweAGP+MqvqiP5jjzbKuOUZJSeJGMYXKoDTzYwEfwPckYzfXSI0Z453IOaKCOQPJqaszVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luca\\repos\\LessonSeven\\MyLibrary\\MyLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luca\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Luca\\.nuget\\packages\\softrunners.sharedlibrary.mmextensions\\6.0.0\\softrunners.sharedlibrary.mmextensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

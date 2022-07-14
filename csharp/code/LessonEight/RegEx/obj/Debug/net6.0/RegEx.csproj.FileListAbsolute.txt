@@ -1,0 +1,15 @@
+C:\Users\Luca\repos\LessonEight\RegEx\bin\Debug\net6.0\RegEx.exe
+C:\Users\Luca\repos\LessonEight\RegEx\bin\Debug\net6.0\RegEx.deps.json
+C:\Users\Luca\repos\LessonEight\RegEx\bin\Debug\net6.0\RegEx.runtimeconfig.json
+C:\Users\Luca\repos\LessonEight\RegEx\bin\Debug\net6.0\RegEx.dll
+C:\Users\Luca\repos\LessonEight\RegEx\bin\Debug\net6.0\RegEx.pdb
+C:\Users\Luca\repos\LessonEight\RegEx\obj\Debug\net6.0\RegEx.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\LessonEight\RegEx\obj\Debug\net6.0\RegEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\LessonEight\RegEx\obj\Debug\net6.0\RegEx.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\LessonEight\RegEx\obj\Debug\net6.0\RegEx.AssemblyInfo.cs
+C:\Users\Luca\repos\LessonEight\RegEx\obj\Debug\net6.0\RegEx.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\LessonEight\RegEx\obj\Debug\net6.0\RegEx.dll
+C:\Users\Luca\repos\LessonEight\RegEx\obj\Debug\net6.0\refint\RegEx.dll
+C:\Users\Luca\repos\LessonEight\RegEx\obj\Debug\net6.0\RegEx.pdb
+C:\Users\Luca\repos\LessonEight\RegEx\obj\Debug\net6.0\RegEx.genruntimeconfig.cache
+C:\Users\Luca\repos\LessonEight\RegEx\obj\Debug\net6.0\ref\RegEx.dll

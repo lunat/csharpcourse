@@ -1,0 +1,13 @@
+C:\Users\Luca\repos\LessonSeven\LessonSeven\obj\Debug\net6.0\LessonSeven.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\LessonSeven\LessonSeven\obj\Debug\net6.0\LessonSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\LessonSeven\LessonSeven\obj\Debug\net6.0\LessonSeven.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\LessonSeven\LessonSeven\obj\Debug\net6.0\LessonSeven.AssemblyInfo.cs
+C:\Users\Luca\repos\LessonSeven\LessonSeven\obj\Debug\net6.0\LessonSeven.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\LessonSeven\LessonSeven\bin\Debug\net6.0\LessonSeven.exe
+C:\Users\Luca\repos\LessonSeven\LessonSeven\bin\Debug\net6.0\LessonSeven.deps.json
+C:\Users\Luca\repos\LessonSeven\LessonSeven\bin\Debug\net6.0\LessonSeven.runtimeconfig.json
+C:\Users\Luca\repos\LessonSeven\LessonSeven\bin\Debug\net6.0\LessonSeven.dll
+C:\Users\Luca\repos\LessonSeven\LessonSeven\obj\Debug\net6.0\LessonSeven.dll
+C:\Users\Luca\repos\LessonSeven\LessonSeven\obj\Debug\net6.0\refint\LessonSeven.dll
+C:\Users\Luca\repos\LessonSeven\LessonSeven\obj\Debug\net6.0\LessonSeven.genruntimeconfig.cache
+C:\Users\Luca\repos\LessonSeven\LessonSeven\obj\Debug\net6.0\ref\LessonSeven.dll

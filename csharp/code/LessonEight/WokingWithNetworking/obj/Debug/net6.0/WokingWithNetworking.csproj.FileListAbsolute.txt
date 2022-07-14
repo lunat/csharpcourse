@@ -1,0 +1,15 @@
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\bin\Debug\net6.0\WokingWithNetworking.exe
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\bin\Debug\net6.0\WokingWithNetworking.deps.json
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\bin\Debug\net6.0\WokingWithNetworking.runtimeconfig.json
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\bin\Debug\net6.0\WokingWithNetworking.dll
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\bin\Debug\net6.0\WokingWithNetworking.pdb
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\obj\Debug\net6.0\WokingWithNetworking.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\obj\Debug\net6.0\WokingWithNetworking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\obj\Debug\net6.0\WokingWithNetworking.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\obj\Debug\net6.0\WokingWithNetworking.AssemblyInfo.cs
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\obj\Debug\net6.0\WokingWithNetworking.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\obj\Debug\net6.0\WokingWithNetworking.dll
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\obj\Debug\net6.0\refint\WokingWithNetworking.dll
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\obj\Debug\net6.0\WokingWithNetworking.pdb
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\obj\Debug\net6.0\WokingWithNetworking.genruntimeconfig.cache
+C:\Users\Luca\repos\LessonEight\WokingWithNetworking\obj\Debug\net6.0\ref\WokingWithNetworking.dll

@@ -1,0 +1,15 @@
+C:\Users\Luca\repos\LessonEight\LessonEight\bin\Debug\net6.0\LessonEight.exe
+C:\Users\Luca\repos\LessonEight\LessonEight\bin\Debug\net6.0\LessonEight.deps.json
+C:\Users\Luca\repos\LessonEight\LessonEight\bin\Debug\net6.0\LessonEight.runtimeconfig.json
+C:\Users\Luca\repos\LessonEight\LessonEight\bin\Debug\net6.0\LessonEight.dll
+C:\Users\Luca\repos\LessonEight\LessonEight\bin\Debug\net6.0\LessonEight.pdb
+C:\Users\Luca\repos\LessonEight\LessonEight\obj\Debug\net6.0\LessonEight.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\LessonEight\LessonEight\obj\Debug\net6.0\LessonEight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\LessonEight\LessonEight\obj\Debug\net6.0\LessonEight.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\LessonEight\LessonEight\obj\Debug\net6.0\LessonEight.AssemblyInfo.cs
+C:\Users\Luca\repos\LessonEight\LessonEight\obj\Debug\net6.0\LessonEight.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\LessonEight\LessonEight\obj\Debug\net6.0\LessonEight.dll
+C:\Users\Luca\repos\LessonEight\LessonEight\obj\Debug\net6.0\refint\LessonEight.dll
+C:\Users\Luca\repos\LessonEight\LessonEight\obj\Debug\net6.0\LessonEight.pdb
+C:\Users\Luca\repos\LessonEight\LessonEight\obj\Debug\net6.0\LessonEight.genruntimeconfig.cache
+C:\Users\Luca\repos\LessonEight\LessonEight\obj\Debug\net6.0\ref\LessonEight.dll

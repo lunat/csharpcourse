@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <PackageId>SoftRunners.SharedLibrary.Extensions</PackageId>
+	  <PackageVersion>6.2.1.0</PackageVersion>
+	  <Title>C# Extension Method shared library</Title>
+	  <Authors>Softrunners</Authors>
+	  <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
+	  <PackageProjectUrl>https://www.softrunners.com/SharedLibrary</PackageProjectUrl>
+	  <PackageIcon>shared-library-icon.png</PackageIcon>
+	  <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+	  <PackageReleaseNotes>Example shared library</PackageReleaseNotes>
+	  <Description>Three extention methods to validate string value</Description>
+	  <Copyright>Copyright (c) 2022 Softrunners</Copyright>
+	  <PackageTags>string extentions regex csharp dotnet</PackageTags>
+  </PropertyGroup>
+	<ItemGroup>
+		<None Include="shared-library-icon.png">
+			<Pack>True</Pack>
+			<PackagePath></PackagePath>
+		</None>
+	</ItemGroup>
+</Project>

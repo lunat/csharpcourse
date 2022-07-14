@@ -1,0 +1,15 @@
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\bin\Debug\net6.0\WorkingWithQueue.exe
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\bin\Debug\net6.0\WorkingWithQueue.deps.json
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\bin\Debug\net6.0\WorkingWithQueue.runtimeconfig.json
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\bin\Debug\net6.0\WorkingWithQueue.dll
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\bin\Debug\net6.0\WorkingWithQueue.pdb
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\obj\Debug\net6.0\WorkingWithQueue.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\obj\Debug\net6.0\WorkingWithQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\obj\Debug\net6.0\WorkingWithQueue.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\obj\Debug\net6.0\WorkingWithQueue.AssemblyInfo.cs
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\obj\Debug\net6.0\WorkingWithQueue.csproj.CoreCompileInputs.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\obj\Debug\net6.0\WorkingWithQueue.dll
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\obj\Debug\net6.0\refint\WorkingWithQueue.dll
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\obj\Debug\net6.0\WorkingWithQueue.pdb
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\obj\Debug\net6.0\WorkingWithQueue.genruntimeconfig.cache
+C:\Users\Luca\repos\LessonEight\WorkingWithQueue\obj\Debug\net6.0\ref\WorkingWithQueue.dll

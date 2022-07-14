@@ -1,0 +1,5 @@
+C:\Users\Luca\repos\SharedLibrary\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\Luca\repos\SharedLibrary\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\repos\SharedLibrary\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\Luca\repos\SharedLibrary\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\Luca\repos\SharedLibrary\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
