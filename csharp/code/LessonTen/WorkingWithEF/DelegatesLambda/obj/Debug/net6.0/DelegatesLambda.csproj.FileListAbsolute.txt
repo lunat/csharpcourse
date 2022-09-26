@@ -1,0 +1,15 @@
+C:\repos\WorkingWithEF\DelegatesLambda\bin\Debug\net6.0\DelegatesLambda.exe
+C:\repos\WorkingWithEF\DelegatesLambda\bin\Debug\net6.0\DelegatesLambda.deps.json
+C:\repos\WorkingWithEF\DelegatesLambda\bin\Debug\net6.0\DelegatesLambda.runtimeconfig.json
+C:\repos\WorkingWithEF\DelegatesLambda\bin\Debug\net6.0\DelegatesLambda.dll
+C:\repos\WorkingWithEF\DelegatesLambda\bin\Debug\net6.0\DelegatesLambda.pdb
+C:\repos\WorkingWithEF\DelegatesLambda\obj\Debug\net6.0\DelegatesLambda.csproj.AssemblyReference.cache
+C:\repos\WorkingWithEF\DelegatesLambda\obj\Debug\net6.0\DelegatesLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\WorkingWithEF\DelegatesLambda\obj\Debug\net6.0\DelegatesLambda.AssemblyInfoInputs.cache
+C:\repos\WorkingWithEF\DelegatesLambda\obj\Debug\net6.0\DelegatesLambda.AssemblyInfo.cs
+C:\repos\WorkingWithEF\DelegatesLambda\obj\Debug\net6.0\DelegatesLambda.csproj.CoreCompileInputs.cache
+C:\repos\WorkingWithEF\DelegatesLambda\obj\Debug\net6.0\DelegatesLambda.dll
+C:\repos\WorkingWithEF\DelegatesLambda\obj\Debug\net6.0\refint\DelegatesLambda.dll
+C:\repos\WorkingWithEF\DelegatesLambda\obj\Debug\net6.0\DelegatesLambda.pdb
+C:\repos\WorkingWithEF\DelegatesLambda\obj\Debug\net6.0\DelegatesLambda.genruntimeconfig.cache
+C:\repos\WorkingWithEF\DelegatesLambda\obj\Debug\net6.0\ref\DelegatesLambda.dll
