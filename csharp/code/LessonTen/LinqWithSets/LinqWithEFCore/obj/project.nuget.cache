@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4SmsZMLoqOOTyrgcAWw5c0KfbmATahtbkpgf4ApBFa+LRsNDe4tX/CaeeQIIpxoCKrKJhOvI67QPtRDBEM8HHw==",
+  "dgSpecHash": "bzWgbIzZO5A/1qr1q1HNIeiVHdNceSt9x9L+Q1AUj9mEKGYWPnXcXxFFTPocSCiIadAW5vvrZl/8UaetlE+27w==",
   "success": true,
-  "projectFilePath": "C:\\repos\\LinqWithSets\\LinqWithEFCore\\LinqWithEFCore.csproj",
+  "projectFilePath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\LinqWithSets\\LinqWithEFCore\\LinqWithEFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luca\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Luca\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

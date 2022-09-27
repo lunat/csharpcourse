@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HMLd0DoA/dNXLsVN2ZAgyzXaOyyhp92xGcpTHy1rg4v3Q5YpQNZXi0nrUpMxM0O8JIUzl0Am6NHBVE4WxSgDzQ==",
+  "dgSpecHash": "8/jkrI07nsnPfrejAVVG/5q2jDeKjQxHaHprcTmcS3ZJ6bleTfT6Bcz07flITJhZtPef0Y/wK5Sey4hR1MAi9Q==",
   "success": true,
-  "projectFilePath": "C:\\repos\\LinqWithSets\\LinqWithSets\\LinqWithSets.csproj",
+  "projectFilePath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\LinqWithSets\\LinqWithSets\\LinqWithSets.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\bin\Debug\net6.0\LinqInParallel.exe
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\bin\Debug\net6.0\LinqInParallel.deps.json
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\bin\Debug\net6.0\LinqInParallel.runtimeconfig.json
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\bin\Debug\net6.0\LinqInParallel.dll
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\bin\Debug\net6.0\LinqInParallel.pdb
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\obj\Debug\net6.0\LinqInParallel.csproj.AssemblyReference.cache
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\obj\Debug\net6.0\LinqInParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\obj\Debug\net6.0\LinqInParallel.AssemblyInfoInputs.cache
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\obj\Debug\net6.0\LinqInParallel.AssemblyInfo.cs
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\obj\Debug\net6.0\LinqInParallel.csproj.CoreCompileInputs.cache
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\obj\Debug\net6.0\LinqInParallel.dll
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\obj\Debug\net6.0\refint\LinqInParallel.dll
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\obj\Debug\net6.0\LinqInParallel.pdb
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\obj\Debug\net6.0\LinqInParallel.genruntimeconfig.cache
+C:\repos\csharpcourse\csharp\code\LessonTen\LinqWithSets\LinqInParallel\obj\Debug\net6.0\ref\LinqInParallel.dll

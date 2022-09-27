@@ -21,7 +21,10 @@ namespace Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var connectionString = "Data Source=LUNATPC\\MSSQLDEV;Initial Catalog=Northwind;Integrated Security=true;";
+            var connectionString = "Data Source=LUNATPC\\MSSQLDEV;" +
+                                   "Initial Catalog=Northwind;" +
+                                   "Integrated Security=true;" +
+                                   "MultipleActiveResultSets=true";
             optionsBuilder.UseSqlServer(connectionString);
         }
 

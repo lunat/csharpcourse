@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\LinqWithSets\\LinqWithSets\\LinqWithSets.csproj": {}
+    "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\LinqWithSets\\LinqWithSets\\LinqWithSets.csproj": {}
   },
   "projects": {
-    "C:\\repos\\LinqWithSets\\LinqWithSets\\LinqWithSets.csproj": {
+    "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\LinqWithSets\\LinqWithSets\\LinqWithSets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\LinqWithSets\\LinqWithSets\\LinqWithSets.csproj",
+        "projectUniqueName": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\LinqWithSets\\LinqWithSets\\LinqWithSets.csproj",
         "projectName": "LinqWithSets",
-        "projectPath": "C:\\repos\\LinqWithSets\\LinqWithSets\\LinqWithSets.csproj",
+        "projectPath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\LinqWithSets\\LinqWithSets\\LinqWithSets.csproj",
         "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\LinqWithSets\\LinqWithSets\\obj\\",
+        "outputPath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\LinqWithSets\\LinqWithSets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithSets", "LinqWithSets\LinqWithSets.csproj", "{9E785299-6AF2-4CA9-818B-D6E2064CABF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqWithSets", "LinqWithSets\LinqWithSets.csproj", "{9E785299-6AF2-4CA9-818B-D6E2064CABF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithEFCore", "LinqWithEFCore\LinqWithEFCore.csproj", "{8AFC3E71-8E2D-4F1B-9024-021D3D4F7EDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqWithEFCore", "LinqWithEFCore\LinqWithEFCore.csproj", "{8AFC3E71-8E2D-4F1B-9024-021D3D4F7EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqInParallel", "LinqInParallel\LinqInParallel.csproj", "{99F5041B-C4E8-4DDC-9A1B-9D96176CCDC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8AFC3E71-8E2D-4F1B-9024-021D3D4F7EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AFC3E71-8E2D-4F1B-9024-021D3D4F7EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AFC3E71-8E2D-4F1B-9024-021D3D4F7EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F5041B-C4E8-4DDC-9A1B-9D96176CCDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F5041B-C4E8-4DDC-9A1B-9D96176CCDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F5041B-C4E8-4DDC-9A1B-9D96176CCDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F5041B-C4E8-4DDC-9A1B-9D96176CCDC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
