@@ -1,0 +1,15 @@
+C:\repos\LessonTwelve\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.exe
+C:\repos\LessonTwelve\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.deps.json
+C:\repos\LessonTwelve\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.runtimeconfig.json
+C:\repos\LessonTwelve\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.dll
+C:\repos\LessonTwelve\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.pdb
+C:\repos\LessonTwelve\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.csproj.AssemblyReference.cache
+C:\repos\LessonTwelve\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\LessonTwelve\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+C:\repos\LessonTwelve\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.AssemblyInfo.cs
+C:\repos\LessonTwelve\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+C:\repos\LessonTwelve\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.dll
+C:\repos\LessonTwelve\SynchronizingResourceAccess\obj\Debug\net6.0\refint\SynchronizingResourceAccess.dll
+C:\repos\LessonTwelve\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.pdb
+C:\repos\LessonTwelve\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.genruntimeconfig.cache
+C:\repos\LessonTwelve\SynchronizingResourceAccess\obj\Debug\net6.0\ref\SynchronizingResourceAccess.dll

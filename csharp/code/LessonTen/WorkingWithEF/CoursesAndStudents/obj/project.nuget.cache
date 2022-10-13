@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GhQemjnf1raYDBOPW6Iazm/7iPk9w2w+PKiLszTPHSM7N5ZZI/4Cis89KnTroXCPHxQc5kwc6dLT8S7TyR7J3Q==",
+  "dgSpecHash": "8fLN5VHX0tk2YA+iAoO8EFNe3OPCN9ZKNhgp7l1HFMg5nsNFs58GkCTapGwNe4Z04CPUU5D8YMSmn+KmB0OPEw==",
   "success": true,
-  "projectFilePath": "C:\\repos\\WorkingWithEF\\CoursesAndStudents\\CoursesAndStudents.csproj",
+  "projectFilePath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\CoursesAndStudents\\CoursesAndStudents.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luca\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Luca\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

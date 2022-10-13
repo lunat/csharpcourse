@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BHx6ErJC2Tfr36k/nS6mDYZ+0y0vkTWLaB5T2yAp+OpjM9m+fqMjTdqThG5vlEg0xf9QhbTsftCqC7ulIY0W1Q==",
+  "dgSpecHash": "b80Vv8PAE13xNN7DgCcRHwRGIzdbe3BhaTeG6RYs727vlOJ4LOeYKiFqx7lmGLQyFPtU84/W2SqyoimzPfz5MA==",
   "success": true,
-  "projectFilePath": "C:\\repos\\WorkingWithEF\\DelegatesLambda\\DelegatesLambda.csproj",
+  "projectFilePath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\DelegatesLambda\\DelegatesLambda.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

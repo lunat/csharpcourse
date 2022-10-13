@@ -1,0 +1,15 @@
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\bin\Debug\net6.0\Northwind.Common.DataContext.SqlServer.deps.json
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\bin\Debug\net6.0\Northwind.Common.DataContext.SqlServer.dll
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\bin\Debug\net6.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.csproj.CopyComplete
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.dll
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\refint\Northwind.Common.DataContext.SqlServer.dll
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\repos\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\ref\Northwind.Common.DataContext.SqlServer.dll

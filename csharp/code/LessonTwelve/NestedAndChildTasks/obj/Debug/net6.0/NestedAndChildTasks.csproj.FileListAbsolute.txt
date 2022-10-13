@@ -1,0 +1,15 @@
+C:\repos\LessonTwelve\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.exe
+C:\repos\LessonTwelve\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.deps.json
+C:\repos\LessonTwelve\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.runtimeconfig.json
+C:\repos\LessonTwelve\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.dll
+C:\repos\LessonTwelve\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.pdb
+C:\repos\LessonTwelve\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.csproj.AssemblyReference.cache
+C:\repos\LessonTwelve\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\LessonTwelve\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\repos\LessonTwelve\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.AssemblyInfo.cs
+C:\repos\LessonTwelve\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+C:\repos\LessonTwelve\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.dll
+C:\repos\LessonTwelve\NestedAndChildTasks\obj\Debug\net6.0\refint\NestedAndChildTasks.dll
+C:\repos\LessonTwelve\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.pdb
+C:\repos\LessonTwelve\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.genruntimeconfig.cache
+C:\repos\LessonTwelve\NestedAndChildTasks\obj\Debug\net6.0\ref\NestedAndChildTasks.dll

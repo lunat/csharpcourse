@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bpmkhxEpBZ8Ukixc1SUWX7hcZt+IVPGhaBsyeS4GDDkEhVfIqT0befztAWXL3+fda//JXATG3OwtCZMicwTxXQ==",
+  "dgSpecHash": "LVVdnJoexLwetP2l3vzSv2Fy1KnlIKj+1XcFdZc7ndB0PPifGYa4EWgs7VHVcyCbI7n3M43A8lCjzyacJIcz7A==",
   "success": true,
-  "projectFilePath": "C:\\repos\\WorkingWithEF\\EFMigration\\EFMigration.csproj",
+  "projectFilePath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\EFMigration\\EFMigration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luca\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Luca\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

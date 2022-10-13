@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\WorkingWithEF\\DelegatesLambda\\DelegatesLambda.csproj": {}
+    "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\DelegatesLambda\\DelegatesLambda.csproj": {}
   },
   "projects": {
-    "C:\\repos\\WorkingWithEF\\DelegatesLambda\\DelegatesLambda.csproj": {
+    "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\DelegatesLambda\\DelegatesLambda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\WorkingWithEF\\DelegatesLambda\\DelegatesLambda.csproj",
+        "projectUniqueName": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\DelegatesLambda\\DelegatesLambda.csproj",
         "projectName": "DelegatesLambda",
-        "projectPath": "C:\\repos\\WorkingWithEF\\DelegatesLambda\\DelegatesLambda.csproj",
+        "projectPath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\DelegatesLambda\\DelegatesLambda.csproj",
         "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\WorkingWithEF\\DelegatesLambda\\obj\\",
+        "outputPath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\DelegatesLambda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

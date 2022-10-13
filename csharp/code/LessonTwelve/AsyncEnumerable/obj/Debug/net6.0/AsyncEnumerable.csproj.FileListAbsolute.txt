@@ -1,0 +1,15 @@
+C:\repos\LessonTwelve\AsyncEnumerable\bin\Debug\net6.0\AsyncEnumerable.exe
+C:\repos\LessonTwelve\AsyncEnumerable\bin\Debug\net6.0\AsyncEnumerable.deps.json
+C:\repos\LessonTwelve\AsyncEnumerable\bin\Debug\net6.0\AsyncEnumerable.runtimeconfig.json
+C:\repos\LessonTwelve\AsyncEnumerable\bin\Debug\net6.0\AsyncEnumerable.dll
+C:\repos\LessonTwelve\AsyncEnumerable\bin\Debug\net6.0\AsyncEnumerable.pdb
+C:\repos\LessonTwelve\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.csproj.AssemblyReference.cache
+C:\repos\LessonTwelve\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\LessonTwelve\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.AssemblyInfoInputs.cache
+C:\repos\LessonTwelve\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.AssemblyInfo.cs
+C:\repos\LessonTwelve\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.csproj.CoreCompileInputs.cache
+C:\repos\LessonTwelve\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.dll
+C:\repos\LessonTwelve\AsyncEnumerable\obj\Debug\net6.0\refint\AsyncEnumerable.dll
+C:\repos\LessonTwelve\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.pdb
+C:\repos\LessonTwelve\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.genruntimeconfig.cache
+C:\repos\LessonTwelve\AsyncEnumerable\obj\Debug\net6.0\ref\AsyncEnumerable.dll

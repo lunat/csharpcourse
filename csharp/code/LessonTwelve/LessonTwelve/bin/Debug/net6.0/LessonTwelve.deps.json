@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LessonTwelve/1.0.0": {
+        "dependencies": {
+          "MonitoringLib": "1.0.0"
+        },
+        "runtime": {
+          "LessonTwelve.dll": {}
+        }
+      },
+      "MonitoringLib/1.0.0": {
+        "runtime": {
+          "MonitoringLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LessonTwelve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonitoringLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

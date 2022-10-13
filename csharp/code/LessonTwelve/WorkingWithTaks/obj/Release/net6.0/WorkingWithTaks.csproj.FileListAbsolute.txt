@@ -1,0 +1,15 @@
+C:\repos\LessonTwelve\WorkingWithTaks\bin\Release\net6.0\WorkingWithTaks.exe
+C:\repos\LessonTwelve\WorkingWithTaks\bin\Release\net6.0\WorkingWithTaks.deps.json
+C:\repos\LessonTwelve\WorkingWithTaks\bin\Release\net6.0\WorkingWithTaks.runtimeconfig.json
+C:\repos\LessonTwelve\WorkingWithTaks\bin\Release\net6.0\WorkingWithTaks.dll
+C:\repos\LessonTwelve\WorkingWithTaks\bin\Release\net6.0\WorkingWithTaks.pdb
+C:\repos\LessonTwelve\WorkingWithTaks\obj\Release\net6.0\WorkingWithTaks.csproj.AssemblyReference.cache
+C:\repos\LessonTwelve\WorkingWithTaks\obj\Release\net6.0\WorkingWithTaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\LessonTwelve\WorkingWithTaks\obj\Release\net6.0\WorkingWithTaks.AssemblyInfoInputs.cache
+C:\repos\LessonTwelve\WorkingWithTaks\obj\Release\net6.0\WorkingWithTaks.AssemblyInfo.cs
+C:\repos\LessonTwelve\WorkingWithTaks\obj\Release\net6.0\WorkingWithTaks.csproj.CoreCompileInputs.cache
+C:\repos\LessonTwelve\WorkingWithTaks\obj\Release\net6.0\WorkingWithTaks.dll
+C:\repos\LessonTwelve\WorkingWithTaks\obj\Release\net6.0\refint\WorkingWithTaks.dll
+C:\repos\LessonTwelve\WorkingWithTaks\obj\Release\net6.0\WorkingWithTaks.pdb
+C:\repos\LessonTwelve\WorkingWithTaks\obj\Release\net6.0\WorkingWithTaks.genruntimeconfig.cache
+C:\repos\LessonTwelve\WorkingWithTaks\obj\Release\net6.0\ref\WorkingWithTaks.dll

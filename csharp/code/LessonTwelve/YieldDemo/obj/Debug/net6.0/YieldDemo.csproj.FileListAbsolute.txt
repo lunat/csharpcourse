@@ -1,0 +1,16 @@
+C:\repos\LessonTwelve\YieldDemo\bin\Debug\net6.0\YieldDemo.exe
+C:\repos\LessonTwelve\YieldDemo\bin\Debug\net6.0\MyTextFile.txt
+C:\repos\LessonTwelve\YieldDemo\bin\Debug\net6.0\YieldDemo.deps.json
+C:\repos\LessonTwelve\YieldDemo\bin\Debug\net6.0\YieldDemo.runtimeconfig.json
+C:\repos\LessonTwelve\YieldDemo\bin\Debug\net6.0\YieldDemo.dll
+C:\repos\LessonTwelve\YieldDemo\bin\Debug\net6.0\YieldDemo.pdb
+C:\repos\LessonTwelve\YieldDemo\obj\Debug\net6.0\YieldDemo.csproj.AssemblyReference.cache
+C:\repos\LessonTwelve\YieldDemo\obj\Debug\net6.0\YieldDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\LessonTwelve\YieldDemo\obj\Debug\net6.0\YieldDemo.AssemblyInfoInputs.cache
+C:\repos\LessonTwelve\YieldDemo\obj\Debug\net6.0\YieldDemo.AssemblyInfo.cs
+C:\repos\LessonTwelve\YieldDemo\obj\Debug\net6.0\YieldDemo.csproj.CoreCompileInputs.cache
+C:\repos\LessonTwelve\YieldDemo\obj\Debug\net6.0\YieldDemo.dll
+C:\repos\LessonTwelve\YieldDemo\obj\Debug\net6.0\refint\YieldDemo.dll
+C:\repos\LessonTwelve\YieldDemo\obj\Debug\net6.0\YieldDemo.pdb
+C:\repos\LessonTwelve\YieldDemo\obj\Debug\net6.0\YieldDemo.genruntimeconfig.cache
+C:\repos\LessonTwelve\YieldDemo\obj\Debug\net6.0\ref\YieldDemo.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t2q7bODcTVGXHbVNDTUH2VEvPXGMk4rYeY3sqxclwBRkT4F0ocVFJYIpdFgjIAJhLU5JE3XpFyyBgXqXfDq8Qg==",
+  "dgSpecHash": "580Zy0NBb2bqJPTbiDX41gIyTYEszuEaBGFtKc9ry/GfathVWgSpbU41cMujOUeGv9+R6rrXA1Iicb1d8vMlZg==",
   "success": true,
-  "projectFilePath": "C:\\repos\\WorkingWithEF\\WorkingWithEF\\WorkingWithEF.csproj",
+  "projectFilePath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\WorkingWithEF\\WorkingWithEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luca\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Luca\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

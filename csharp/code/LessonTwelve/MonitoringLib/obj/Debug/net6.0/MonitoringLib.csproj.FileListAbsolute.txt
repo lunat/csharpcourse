@@ -1,0 +1,12 @@
+C:\repos\LessonTwelve\MonitoringLib\bin\Debug\net6.0\MonitoringLib.deps.json
+C:\repos\LessonTwelve\MonitoringLib\bin\Debug\net6.0\MonitoringLib.dll
+C:\repos\LessonTwelve\MonitoringLib\bin\Debug\net6.0\MonitoringLib.pdb
+C:\repos\LessonTwelve\MonitoringLib\obj\Debug\net6.0\MonitoringLib.csproj.AssemblyReference.cache
+C:\repos\LessonTwelve\MonitoringLib\obj\Debug\net6.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\LessonTwelve\MonitoringLib\obj\Debug\net6.0\MonitoringLib.AssemblyInfoInputs.cache
+C:\repos\LessonTwelve\MonitoringLib\obj\Debug\net6.0\MonitoringLib.AssemblyInfo.cs
+C:\repos\LessonTwelve\MonitoringLib\obj\Debug\net6.0\MonitoringLib.csproj.CoreCompileInputs.cache
+C:\repos\LessonTwelve\MonitoringLib\obj\Debug\net6.0\MonitoringLib.dll
+C:\repos\LessonTwelve\MonitoringLib\obj\Debug\net6.0\refint\MonitoringLib.dll
+C:\repos\LessonTwelve\MonitoringLib\obj\Debug\net6.0\MonitoringLib.pdb
+C:\repos\LessonTwelve\MonitoringLib\obj\Debug\net6.0\ref\MonitoringLib.dll

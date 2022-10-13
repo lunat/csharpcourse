@@ -1,0 +1,15 @@
+C:\repos\LessonTwelve\AsyncConsole\bin\Debug\net6.0\AsyncConsole.exe
+C:\repos\LessonTwelve\AsyncConsole\bin\Debug\net6.0\AsyncConsole.deps.json
+C:\repos\LessonTwelve\AsyncConsole\bin\Debug\net6.0\AsyncConsole.runtimeconfig.json
+C:\repos\LessonTwelve\AsyncConsole\bin\Debug\net6.0\AsyncConsole.dll
+C:\repos\LessonTwelve\AsyncConsole\bin\Debug\net6.0\AsyncConsole.pdb
+C:\repos\LessonTwelve\AsyncConsole\obj\Debug\net6.0\AsyncConsole.csproj.AssemblyReference.cache
+C:\repos\LessonTwelve\AsyncConsole\obj\Debug\net6.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\LessonTwelve\AsyncConsole\obj\Debug\net6.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\repos\LessonTwelve\AsyncConsole\obj\Debug\net6.0\AsyncConsole.AssemblyInfo.cs
+C:\repos\LessonTwelve\AsyncConsole\obj\Debug\net6.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\repos\LessonTwelve\AsyncConsole\obj\Debug\net6.0\AsyncConsole.dll
+C:\repos\LessonTwelve\AsyncConsole\obj\Debug\net6.0\refint\AsyncConsole.dll
+C:\repos\LessonTwelve\AsyncConsole\obj\Debug\net6.0\AsyncConsole.pdb
+C:\repos\LessonTwelve\AsyncConsole\obj\Debug\net6.0\AsyncConsole.genruntimeconfig.cache
+C:\repos\LessonTwelve\AsyncConsole\obj\Debug\net6.0\ref\AsyncConsole.dll

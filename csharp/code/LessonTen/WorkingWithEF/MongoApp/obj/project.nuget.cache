@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V2IYaRliwALdmaFkPtwauM/5aEQo5GAOBim8GUKHKMsDiQ2DSZ/cndl4MgWH0InBxHIluaWmg/v2HgteLfTBAg==",
+  "dgSpecHash": "Ra6eSzMySI7AJcgxYa1KzkJQRt0KBbIkFIiF+D+UP1oxB70sRWctD46szQPBhK6UJlUkUi0mxNTIpmTzO5aujw==",
   "success": true,
-  "projectFilePath": "C:\\repos\\WorkingWithEF\\MongoApp\\MongoApp.csproj",
+  "projectFilePath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\MongoApp\\MongoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luca\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Luca\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\WorkingWithEF\\WorkingWithEF\\WorkingWithEF.csproj": {}
+    "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\WorkingWithEF\\WorkingWithEF.csproj": {}
   },
   "projects": {
-    "C:\\repos\\WorkingWithEF\\WorkingWithEF\\WorkingWithEF.csproj": {
+    "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\WorkingWithEF\\WorkingWithEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\WorkingWithEF\\WorkingWithEF\\WorkingWithEF.csproj",
+        "projectUniqueName": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\WorkingWithEF\\WorkingWithEF.csproj",
         "projectName": "WorkingWithEF",
-        "projectPath": "C:\\repos\\WorkingWithEF\\WorkingWithEF\\WorkingWithEF.csproj",
+        "projectPath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\WorkingWithEF\\WorkingWithEF.csproj",
         "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\WorkingWithEF\\WorkingWithEF\\obj\\",
+        "outputPath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\WorkingWithEF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\WorkingWithEF\\CoursesAndStudents\\CoursesAndStudents.csproj": {}
+    "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\CoursesAndStudents\\CoursesAndStudents.csproj": {}
   },
   "projects": {
-    "C:\\repos\\WorkingWithEF\\CoursesAndStudents\\CoursesAndStudents.csproj": {
+    "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\CoursesAndStudents\\CoursesAndStudents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\WorkingWithEF\\CoursesAndStudents\\CoursesAndStudents.csproj",
+        "projectUniqueName": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\CoursesAndStudents\\CoursesAndStudents.csproj",
         "projectName": "CoursesAndStudents",
-        "projectPath": "C:\\repos\\WorkingWithEF\\CoursesAndStudents\\CoursesAndStudents.csproj",
+        "projectPath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\CoursesAndStudents\\CoursesAndStudents.csproj",
         "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\WorkingWithEF\\CoursesAndStudents\\obj\\",
+        "outputPath": "C:\\repos\\csharpcourse\\csharp\\code\\LessonTen\\WorkingWithEF\\CoursesAndStudents\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
